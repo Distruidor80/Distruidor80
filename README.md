@@ -1,4 +1,4 @@
-<h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">my name is GUilherme Martins 🌑</h1>
+<h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">my name is GUilherme Martins 🌑</h1>
 <img height = "120em" align = "right" src = "https://media.giphy.com/media/BzYPuOs45IDoA/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Distruidor80&color=green" alt="Profile views" /> </p>
